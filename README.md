@@ -1,4 +1,8 @@
-# Anti-Bots <img src="https://github.com/user-attachments/assets/bb2e545a-99b3-4ae0-b7ab-50553f5fb051" width="120" style="border-radius:50%; float:right;"/>
+# Anti-Bots 
+
+---
+
+<img src="https://github.com/user-attachments/assets/bb2e545a-99b3-4ae0-b7ab-50553f5fb051" width="100%"/>
 
 ---
 
