@@ -34,7 +34,3 @@ El proyecto AntiBots utiliza las siguientes tecnologías para el desarrollo de s
 Además, se pueden integrar herramientas complementarias como:
 - **Node.js:** Para la ejecución del entorno de desarrollo.
 - **Git y GitHub:** Control de versiones y gestión del código fuente.
-
----
-
-<img width="1195" height="96" alt="Captura" src="https://github.com/user-attachments/assets/5dd75d6d-051f-4dd5-bba4-3b8f1ca4edbe" />
