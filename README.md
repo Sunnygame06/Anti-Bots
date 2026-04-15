@@ -1,4 +1,6 @@
 # Anti-Bots
+<img width="1080" height="1080" alt="Diseño sin título" src="https://github.com/user-attachments/assets/bb2e545a-99b3-4ae0-b7ab-50553f5fb051" />
+
 
 ## Integrantes
  
