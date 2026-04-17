@@ -6,7 +6,7 @@
 
 ---
 
-## 📖 Descripción del Proyecto
+##  Descripción del Proyecto
 
 **AntiBots** es una plataforma enfocada en digitalizar y optimizar la gestión de un emprendimiento dedicado a la creación de figuras coleccionables (art toys) y productos personalizados.
 
@@ -23,29 +23,36 @@ El emprendimiento trabaja con múltiples colaboradores dentro de una asociación
 
 ## 👥 Integrantes
 
-- Daniel Alejandro Alvarado Tobar — 20210133  
 - Joshua Daniel Gonzalez Perez — 20220432  
+- Daniel Alejandro Alvarado Tobar — 20210133  
 - Edwin Geovanny Alfaro Alfaro — 20210300  
 - Diego Josue Rodriguez Alvarado — 20210032  
 - Stephany Johanna Dominguez Fuentes — 20240611  
 
 ---
-
 ## 🛠️ Tecnologías Utilizadas
 
-### Frontend
-- **React**
-- **JavaScript (ES6+)**
-- **HTML5**
-- **CSS3**
+### 🎨 Frontend
+- **React** — Construcción de interfaces dinámicas
+- **JavaScript (ES6+)** — Lógica del cliente
+- **HTML5** — Estructura de la aplicación
+- **CSS3** — Estilos y diseño visual
 
-### Herramientas
-- **Node.js**
-- **Git & GitHub**
+### ⚙️ Backend
+- **Node.js** — Entorno de ejecución del servidor
+- **JavaScript** — Lógica del backend
+- **Express.js** — Framework para la creación de APIs REST
+
+### 🗄️ Base de Datos 
+- **MongoDB** *(o la que vayan a usar)*
+
+### 🧰 Herramientas y Control de Versiones
+- **Git**
+- **GitHub**
 
 ---
 
-## ⚙️ Instalación y Configuración
+## Instalación y Configuración
 
 Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 
