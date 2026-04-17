@@ -1,36 +1,55 @@
-# Anti-Bots 
+# Anti-Bots
 
 ---
 
-<img width="1128" height="426" alt="Image" src="https://github.com/user-attachments/assets/29f1c6ef-b6c1-4d6d-ae6e-2a25b0383842" />
+![Banner](https://github.com/user-attachments/assets/29f1c6ef-b6c1-4d6d-ae6e-2a25b0383842)
 
 ---
 
-## Integrantes
- 
-- **Daniel Alejandro Alvarado Tobar** - 20210133  
-- **Joshua Daniel Gonzalez Perez** - 20220432  
-- **Edwin Geovanny Alfaro Alfaro** - 20210300  
-- **Diego Josue Rodriguez Alvarado** - 20210032  
-- **Stephany Johanna Dominguez Fuentes** - 20240611  
+## 📖 Descripción del Proyecto
+
+**AntiBots** es una plataforma enfocada en digitalizar y optimizar la gestión de un emprendimiento dedicado a la creación de figuras coleccionables (art toys) y productos personalizados.
+
+El sistema busca reemplazar procesos manuales (papel y redes sociales) por una solución digital que permita:
+
+- Gestionar pedidos de clientes
+- Registrar productos personalizados
+- Llevar control de ventas
+- Centralizar la información del negocio
+
+El emprendimiento trabaja con múltiples colaboradores dentro de una asociación de artistas en El Salvador, produciendo piezas únicas tanto en 3D como en productos derivados (camisetas, tazas, gorras, etc.).
 
 ---
 
-## Descripción del proyecto
+## 👥 Integrantes
 
-El negocio se llama AntiBots, su nombre es pensado a un hombre derivada de anti, dedicado al emprendimiento de creación de personajes coleccionables de los cuales promocionar y diseñar manufacturación para hacer las figuras 3D de las cuales se posee productos con colaboradores ya que el emprendedor pertence a una asociación de juguetes en El Salvador de los cuales hay múltiples colaboradores haciendo juguetes únicos con dichos emprendedores, pero no solamente se dedica a la creación 3D sino también a crear productos derivados de ellos como camisetas, tazas gorras y más.
+- Daniel Alejandro Alvarado Tobar — 20210133  
+- Joshua Daniel Gonzalez Perez — 20220432  
+- Edwin Geovanny Alfaro Alfaro — 20210300  
+- Diego Josue Rodriguez Alvarado — 20210032  
+- Stephany Johanna Dominguez Fuentes — 20240611  
 
 ---
 
-## Tecnologías
+## 🛠️ Tecnologías Utilizadas
 
-El proyecto AntiBots utiliza las siguientes tecnologías para el desarrollo de su plataforma:
+### Frontend
+- **React**
+- **JavaScript (ES6+)**
+- **HTML5**
+- **CSS3**
 
-- **JavaScript (JS):** Lenguaje principal para la lógica del sistema y la interacción del usuario.
-- **React:** Librería utilizada para la construcción de interfaces dinámicas y reutilizables.
-- **HTML:** Estructuración del contenido de la aplicación web.
-- **CSS:** Estilización y diseño visual de la interfaz.
+### Herramientas
+- **Node.js**
+- **Git & GitHub**
 
-Además, se pueden integrar herramientas complementarias como:
-- **Node.js:** Para la ejecución del entorno de desarrollo.
-- **Git y GitHub:** Control de versiones y gestión del código fuente.
+---
+
+## ⚙️ Instalación y Configuración
+
+Sigue estos pasos para ejecutar el proyecto en tu entorno local:
+
+### 1. Clonar el repositorio
+```bash
+git clone https://github.com/tu-usuario/AntiBots.git
+cd AntiBots
