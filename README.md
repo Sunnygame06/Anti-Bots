@@ -17,11 +17,11 @@ El sistema busca reemplazar procesos manuales (papel y redes sociales) por una s
 - Llevar control de ventas
 - Centralizar la información del negocio
 
-El emprendimiento trabaja con múltiples colaboradores dentro de una asociación de artistas en El Salvador, produciendo piezas únicas tanto en 3D como en productos derivados (camisetas, tazas, gorras, etc.).
+El emprendimiento trabaja con múltiples colaboradores dentro de una asociación de artistas en El Salvador, produciendo piezas únicas tanto en 3D como en productos derivados (camisetas, tazas,  stickers, etc.).
 
 ---
 
-## 👥 Integrantes
+##  Integrantes
 
 - Joshua Daniel Gonzalez Perez — 20220432  
 - Daniel Alejandro Alvarado Tobar — 20210133  
@@ -30,33 +30,26 @@ El emprendimiento trabaja con múltiples colaboradores dentro de una asociación
 - Stephany Johanna Dominguez Fuentes — 20240611  
 
 ---
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
-### 🎨 Frontend
+### Frontend
 - **React** — Construcción de interfaces dinámicas
 - **JavaScript (ES6+)** — Lógica del cliente
 - **HTML5** — Estructura de la aplicación
 - **CSS3** — Estilos y diseño visual
 
-### ⚙️ Backend
+###  Backend
 - **Node.js** — Entorno de ejecución del servidor
 - **JavaScript** — Lógica del backend
 - **Express.js** — Framework para la creación de APIs REST
 
-### 🗄️ Base de Datos 
-- **MongoDB** *(o la que vayan a usar)*
+###  Base de Datos 
+- **MongoDB** 
 
-### 🧰 Herramientas y Control de Versiones
+### Herramientas y Control de Versiones
 - **Git**
 - **GitHub**
 
 ---
 
-## Instalación y Configuración
 
-Sigue estos pasos para ejecutar el proyecto en tu entorno local:
-
-### 1. Clonar el repositorio
-```bash
-git clone https://github.com/tu-usuario/AntiBots.git
-cd AntiBots
