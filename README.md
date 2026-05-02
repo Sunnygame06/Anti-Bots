@@ -46,9 +46,6 @@ El emprendimiento trabaja con múltiples colaboradores dentro de una asociación
 ###  Base de Datos 
 - **MongoDB** 
 
-### Herramientas y Control de Versiones
-- **Git**
-- **GitHub**
 
 ---
 
